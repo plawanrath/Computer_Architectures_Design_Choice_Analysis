@@ -1,0 +1,2700 @@
+L1 Seperate cache size 128KB Block-Size=64 Associativity=1 No.of.Sets=2048 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=1 No.of.Sets=16384 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11091018 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      67592 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    62878 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    34582 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                 102174 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0056 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3385 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=1 No.of.Sets=2048 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=2 No.of.Sets=8192 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11091018 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      69311 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    62878 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    32863 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                 102174 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0056 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3216 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=1 No.of.Sets=2048 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=4 No.of.Sets=4096 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11091018 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      61527 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    62878 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    40647 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                 102174 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0056 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3978 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=1 No.of.Sets=2048 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=8 No.of.Sets=2048 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11091018 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      60771 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    62878 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41403 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                 102174 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0056 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4052 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=1 No.of.Sets=2048 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=16384 No.of.Sets=1 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11091018 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      60770 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    62878 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41404 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                 102174 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0056 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4052 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2 No.of.Sets=1024 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=1 No.of.Sets=16384 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100415 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      62206 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53481 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    29002 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  91208 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3180 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2 No.of.Sets=1024 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=2 No.of.Sets=8192 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100415 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      58343 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53481 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    32865 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  91208 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3603 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2 No.of.Sets=1024 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=4 No.of.Sets=4096 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100415 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      50557 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53481 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    40651 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  91208 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4457 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2 No.of.Sets=1024 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=8 No.of.Sets=2048 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100415 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49804 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53481 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41404 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  91208 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4540 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2 No.of.Sets=1024 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=16384 No.of.Sets=1 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100415 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49804 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53481 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41404 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  91208 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4540 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=4 No.of.Sets=512 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=1 No.of.Sets=16384 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100605 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      61961 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53291 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    28993 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90954 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3188 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=4 No.of.Sets=512 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=2 No.of.Sets=8192 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100605 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      58089 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53291 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    32865 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90954 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3613 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=4 No.of.Sets=512 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=4 No.of.Sets=4096 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100605 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      50303 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53291 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    40651 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90954 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4469 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=4 No.of.Sets=512 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=8 No.of.Sets=2048 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100605 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49550 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53291 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41404 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90954 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4552 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=4 No.of.Sets=512 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=16384 No.of.Sets=1 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100605 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49550 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53291 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41404 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90954 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4552 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=8 No.of.Sets=256 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=1 No.of.Sets=16384 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100643 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      61916 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53253 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    28992 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90908 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3189 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=8 No.of.Sets=256 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=2 No.of.Sets=8192 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100643 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      58043 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53253 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    32865 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90908 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3615 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=8 No.of.Sets=256 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=4 No.of.Sets=4096 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100643 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      50257 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53253 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    40651 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90908 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4472 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=8 No.of.Sets=256 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=8 No.of.Sets=2048 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100643 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49504 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53253 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41404 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90908 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4554 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=8 No.of.Sets=256 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=16384 No.of.Sets=1 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100643 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49504 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53253 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41404 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90908 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4554 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2048 No.of.Sets=1 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=1 No.of.Sets=16384 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100663 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      61885 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53233 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    28990 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90875 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3190 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2048 No.of.Sets=1 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=2 No.of.Sets=8192 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100663 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      58010 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53233 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    32865 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90875 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3617 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2048 No.of.Sets=1 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=4 No.of.Sets=4096 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100663 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      50224 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53233 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    40651 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90875 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4473 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2048 No.of.Sets=1 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=8 No.of.Sets=2048 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100663 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49471 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53233 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41404 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90875 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4556 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2048 No.of.Sets=1 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=64 Associativity=16384 No.of.Sets=1 Replacement Policy=f.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100663 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49471 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53233 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41404 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90875 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4556 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=1 No.of.Sets=2048 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=1 No.of.Sets=16384 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11091018 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      67592 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    62878 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    34582 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                 102174 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0056 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3385 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=1 No.of.Sets=2048 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=2 No.of.Sets=8192 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11091018 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      69309 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    62878 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    32865 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                 102174 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0056 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3217 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=1 No.of.Sets=2048 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=4 No.of.Sets=4096 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11091018 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      61522 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    62878 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    40652 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                 102174 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0056 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3979 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=1 No.of.Sets=2048 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=8 No.of.Sets=2048 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11091018 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      60859 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    62878 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41315 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                 102174 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0056 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4044 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=1 No.of.Sets=2048 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=16384 No.of.Sets=1 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11091018 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      60770 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    62878 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41404 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                 102174 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0056 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4052 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2 No.of.Sets=1024 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=1 No.of.Sets=16384 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100687 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      61851 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53209 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    28969 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90820 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3190 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2 No.of.Sets=1024 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=2 No.of.Sets=8192 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100687 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      57955 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53209 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    32865 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90820 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3619 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2 No.of.Sets=1024 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=4 No.of.Sets=4096 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100687 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      50168 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53209 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    40652 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90820 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4476 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2 No.of.Sets=1024 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=8 No.of.Sets=2048 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100687 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49505 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53209 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41315 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90820 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4549 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2 No.of.Sets=1024 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=16384 No.of.Sets=1 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100687 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49416 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53209 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41404 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90820 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4559 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=4 No.of.Sets=512 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=1 No.of.Sets=16384 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100890 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      61583 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53006 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    28966 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90549 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3199 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=4 No.of.Sets=512 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=2 No.of.Sets=8192 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100890 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      57684 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53006 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    32865 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90549 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3630 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=4 No.of.Sets=512 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=4 No.of.Sets=4096 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100890 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49897 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53006 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    40652 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90549 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4490 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=4 No.of.Sets=512 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=8 No.of.Sets=2048 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100890 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49234 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53006 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41315 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90549 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4563 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=4 No.of.Sets=512 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=16384 No.of.Sets=1 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100890 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49145 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    53006 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41404 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90549 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4573 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=8 No.of.Sets=256 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=1 No.of.Sets=16384 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100914 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      61545 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    52982 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    28966 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90511 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3200 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=8 No.of.Sets=256 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=2 No.of.Sets=8192 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100914 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      57646 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    52982 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    32865 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90511 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3631 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=8 No.of.Sets=256 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=4 No.of.Sets=4096 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100914 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49859 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    52982 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    40652 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90511 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4491 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=8 No.of.Sets=256 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=8 No.of.Sets=2048 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100914 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49196 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    52982 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41315 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90511 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4565 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=8 No.of.Sets=256 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=16384 No.of.Sets=1 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100914 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49107 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    52982 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41404 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90511 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4574 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2048 No.of.Sets=1 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=1 No.of.Sets=16384 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100901 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      61563 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    52995 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    28966 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90529 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3200 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2048 No.of.Sets=1 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=2 No.of.Sets=8192 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100901 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      57664 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    52995 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    32865 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90529 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3630 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2048 No.of.Sets=1 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=4 No.of.Sets=4096 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100901 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49877 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    52995 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    40652 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90529 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4490 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2048 No.of.Sets=1 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=8 No.of.Sets=2048 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100901 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49214 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    52995 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41315 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90529 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4564 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2048 No.of.Sets=1 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=64 Associativity=16384 No.of.Sets=1 Replacement Policy=l.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11100901 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      49125 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    52995 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    41404 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                  90529 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0048 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4574 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=1 No.of.Sets=2048 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=1 No.of.Sets=16384 Replacement Policy=r.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11091018 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      67592 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    62878 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    34582 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                 102174 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0056 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3385 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=1 No.of.Sets=2048 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=2 No.of.Sets=8192 Replacement Policy=r.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11091018 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      69233 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    62878 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    32941 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                 102174 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0056 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3224 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=1 No.of.Sets=2048 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=4 No.of.Sets=4096 Replacement Policy=r.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11091018 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      68371 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    62878 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    33803 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                 102174 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0056 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3308 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=1 No.of.Sets=2048 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=8 No.of.Sets=2048 Replacement Policy=r.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11091018 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      67605 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    62878 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    34569 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                 102174 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0056 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3383 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=1 No.of.Sets=2048 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=16384 No.of.Sets=1 Replacement Policy=r.
+il1.hits                   25592693 # total number of hits
+dl1.hits                   11091018 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      63398 # total number of hits
+il1.misses                      490 # total number of misses
+dl1.misses                    62878 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    38776 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    490 # total number of accesses
+dl2.accesses                 102174 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0056 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3795 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2 No.of.Sets=1024 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=1 No.of.Sets=16384 Replacement Policy=r.
+il1.hits                   25592673 # total number of hits
+dl1.hits                   11101360 # total number of hits
+il2.hits                         20 # total number of hits
+dl2.hits                      60717 # total number of hits
+il1.misses                      510 # total number of misses
+dl1.misses                    52536 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    29545 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    510 # total number of accesses
+dl2.accesses                  90262 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9608 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3273 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2 No.of.Sets=1024 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=2 No.of.Sets=8192 Replacement Policy=r.
+il1.hits                   25592676 # total number of hits
+dl1.hits                   11101426 # total number of hits
+il2.hits                         17 # total number of hits
+dl2.hits                      57107 # total number of hits
+il1.misses                      507 # total number of misses
+dl1.misses                    52470 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    33091 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    507 # total number of accesses
+dl2.accesses                  90198 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9665 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3669 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2 No.of.Sets=1024 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=4 No.of.Sets=4096 Replacement Policy=r.
+il1.hits                   25592679 # total number of hits
+dl1.hits                   11101406 # total number of hits
+il2.hits                         14 # total number of hits
+dl2.hits                      55757 # total number of hits
+il1.misses                      504 # total number of misses
+dl1.misses                    52490 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    34459 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    504 # total number of accesses
+dl2.accesses                  90216 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9722 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3820 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2 No.of.Sets=1024 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=8 No.of.Sets=2048 Replacement Policy=r.
+il1.hits                   25592670 # total number of hits
+dl1.hits                   11101415 # total number of hits
+il2.hits                         23 # total number of hits
+dl2.hits                      54532 # total number of hits
+il1.misses                      513 # total number of misses
+dl1.misses                    52481 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    35698 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    513 # total number of accesses
+dl2.accesses                  90230 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9552 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3956 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2 No.of.Sets=1024 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=16384 No.of.Sets=1 Replacement Policy=r.
+il1.hits                   25592680 # total number of hits
+dl1.hits                   11101458 # total number of hits
+il2.hits                         13 # total number of hits
+dl2.hits                      51337 # total number of hits
+il1.misses                      503 # total number of misses
+dl1.misses                    52438 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    38816 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    503 # total number of accesses
+dl2.accesses                  90153 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9742 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4306 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=4 No.of.Sets=512 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=1 No.of.Sets=16384 Replacement Policy=r.
+il1.hits                   25592681 # total number of hits
+dl1.hits                   11101785 # total number of hits
+il2.hits                         12 # total number of hits
+dl2.hits                      59883 # total number of hits
+il1.misses                      502 # total number of misses
+dl1.misses                    52111 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    29907 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    502 # total number of accesses
+dl2.accesses                  89790 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9761 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3331 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=4 No.of.Sets=512 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=2 No.of.Sets=8192 Replacement Policy=r.
+il1.hits                   25592671 # total number of hits
+dl1.hits                   11101881 # total number of hits
+il2.hits                         22 # total number of hits
+dl2.hits                      56390 # total number of hits
+il1.misses                      512 # total number of misses
+dl1.misses                    52015 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    33286 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    512 # total number of accesses
+dl2.accesses                  89676 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9570 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3712 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=4 No.of.Sets=512 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=4 No.of.Sets=4096 Replacement Policy=r.
+il1.hits                   25592678 # total number of hits
+dl1.hits                   11101816 # total number of hits
+il2.hits                         15 # total number of hits
+dl2.hits                      54808 # total number of hits
+il1.misses                      505 # total number of misses
+dl1.misses                    52080 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    34956 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    505 # total number of accesses
+dl2.accesses                  89764 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9703 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3894 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=4 No.of.Sets=512 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=8 No.of.Sets=2048 Replacement Policy=r.
+il1.hits                   25592672 # total number of hits
+dl1.hits                   11101815 # total number of hits
+il2.hits                         21 # total number of hits
+dl2.hits                      53558 # total number of hits
+il1.misses                      511 # total number of misses
+dl1.misses                    52081 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    36190 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    511 # total number of accesses
+dl2.accesses                  89748 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9589 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4032 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=4 No.of.Sets=512 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=16384 No.of.Sets=1 Replacement Policy=r.
+il1.hits                   25592663 # total number of hits
+dl1.hits                   11101849 # total number of hits
+il2.hits                         30 # total number of hits
+dl2.hits                      51097 # total number of hits
+il1.misses                      520 # total number of misses
+dl1.misses                    52047 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    38626 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    520 # total number of accesses
+dl2.accesses                  89723 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9423 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4305 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=8 No.of.Sets=256 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=1 No.of.Sets=16384 Replacement Policy=r.
+il1.hits                   25592659 # total number of hits
+dl1.hits                   11101901 # total number of hits
+il2.hits                         34 # total number of hits
+dl2.hits                      59549 # total number of hits
+il1.misses                      524 # total number of misses
+dl1.misses                    51995 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    30084 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    524 # total number of accesses
+dl2.accesses                  89633 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9351 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3356 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=8 No.of.Sets=256 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=2 No.of.Sets=8192 Replacement Policy=r.
+il1.hits                   25592663 # total number of hits
+dl1.hits                   11101877 # total number of hits
+il2.hits                         30 # total number of hits
+dl2.hits                      56230 # total number of hits
+il1.misses                      520 # total number of misses
+dl1.misses                    52019 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    33439 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    520 # total number of accesses
+dl2.accesses                  89669 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9423 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3729 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=8 No.of.Sets=256 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=4 No.of.Sets=4096 Replacement Policy=r.
+il1.hits                   25592663 # total number of hits
+dl1.hits                   11101958 # total number of hits
+il2.hits                         30 # total number of hits
+dl2.hits                      54518 # total number of hits
+il1.misses                      520 # total number of misses
+dl1.misses                    51938 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    35073 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    520 # total number of accesses
+dl2.accesses                  89591 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9423 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3915 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=8 No.of.Sets=256 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=8 No.of.Sets=2048 Replacement Policy=r.
+il1.hits                   25592672 # total number of hits
+dl1.hits                   11101911 # total number of hits
+il2.hits                         21 # total number of hits
+dl2.hits                      53026 # total number of hits
+il1.misses                      511 # total number of misses
+dl1.misses                    51985 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    36606 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    511 # total number of accesses
+dl2.accesses                  89632 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9589 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4084 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=8 No.of.Sets=256 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=16384 No.of.Sets=1 Replacement Policy=r.
+il1.hits                   25592657 # total number of hits
+dl1.hits                   11101905 # total number of hits
+il2.hits                         36 # total number of hits
+dl2.hits                      50823 # total number of hits
+il1.misses                      526 # total number of misses
+dl1.misses                    51991 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    38801 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    526 # total number of accesses
+dl2.accesses                  89624 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9316 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4329 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2048 No.of.Sets=1 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=1 No.of.Sets=16384 Replacement Policy=r.
+il1.hits                   25592668 # total number of hits
+dl1.hits                   11101995 # total number of hits
+il2.hits                         25 # total number of hits
+dl2.hits                      59313 # total number of hits
+il1.misses                      515 # total number of misses
+dl1.misses                    51901 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    30227 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    515 # total number of accesses
+dl2.accesses                  89540 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9515 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3376 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2048 No.of.Sets=1 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=2 No.of.Sets=8192 Replacement Policy=r.
+il1.hits                   25592653 # total number of hits
+dl1.hits                   11101935 # total number of hits
+il2.hits                         40 # total number of hits
+dl2.hits                      56254 # total number of hits
+il1.misses                      530 # total number of misses
+dl1.misses                    51961 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    33326 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    530 # total number of accesses
+dl2.accesses                  89580 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9245 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3720 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2048 No.of.Sets=1 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=4 No.of.Sets=4096 Replacement Policy=r.
+il1.hits                   25592659 # total number of hits
+dl1.hits                   11101908 # total number of hits
+il2.hits                         34 # total number of hits
+dl2.hits                      54279 # total number of hits
+il1.misses                      524 # total number of misses
+dl1.misses                    51988 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    35360 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    524 # total number of accesses
+dl2.accesses                  89639 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9351 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3945 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2048 No.of.Sets=1 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=8 No.of.Sets=2048 Replacement Policy=r.
+il1.hits                   25592656 # total number of hits
+dl1.hits                   11102001 # total number of hits
+il2.hits                         37 # total number of hits
+dl2.hits                      52776 # total number of hits
+il1.misses                      527 # total number of misses
+dl1.misses                    51895 # total number of misses
+il2.misses                      490 # total number of misses
+dl2.misses                    36767 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    527 # total number of accesses
+dl2.accesses                  89543 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9298 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4106 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=64 Associativity=2048 No.of.Sets=1 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=64 Associativity=16384 No.of.Sets=1 Replacement Policy=r.
+il1.hits                   25592651 # total number of hits
+dl1.hits                   11101958 # total number of hits
+il2.hits                         41 # total number of hits
+dl2.hits                      51027 # total number of hits
+il1.misses                      532 # total number of misses
+dl1.misses                    51938 # total number of misses
+il2.misses                      491 # total number of misses
+dl2.misses                    38539 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    532 # total number of accesses
+dl2.accesses                  89566 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0047 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9229 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4303 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=1 No.of.Sets=4096 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=1 No.of.Sets=32768 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11045874 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     126494 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   108022 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    57751 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 184245 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0097 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3134 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=1 No.of.Sets=4096 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=2 No.of.Sets=16384 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11045874 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     118694 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   108022 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    65551 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 184245 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0097 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3558 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=1 No.of.Sets=4096 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=4 No.of.Sets=8192 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11045874 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     103111 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   108022 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    81134 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 184245 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0097 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4404 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=1 No.of.Sets=4096 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=8 No.of.Sets=4096 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11045874 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     101595 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   108022 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82650 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 184245 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0097 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4486 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=1 No.of.Sets=4096 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=32768 No.of.Sets=1 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11045874 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     101594 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   108022 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82651 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 184245 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0097 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4486 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=2 No.of.Sets=2048 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=1 No.of.Sets=32768 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047634 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     123720 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106262 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    57767 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181487 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3183 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=2 No.of.Sets=2048 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=2 No.of.Sets=16384 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047634 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     115934 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106262 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    65553 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181487 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3612 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=2 No.of.Sets=2048 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=4 No.of.Sets=8192 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047634 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     100349 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106262 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    81138 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181487 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4471 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=2 No.of.Sets=2048 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=8 No.of.Sets=4096 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047634 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      98836 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106262 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82651 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181487 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4554 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=2 No.of.Sets=2048 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=32768 No.of.Sets=1 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047634 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      98836 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106262 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82651 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181487 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4554 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4 No.of.Sets=1024 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=1 No.of.Sets=32768 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047793 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     123495 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106103 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    57765 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181260 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3187 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4 No.of.Sets=1024 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=2 No.of.Sets=16384 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047793 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     115707 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106103 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    65553 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181260 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3617 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4 No.of.Sets=1024 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=4 No.of.Sets=8192 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047793 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     100122 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106103 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    81138 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181260 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4476 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4 No.of.Sets=1024 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=8 No.of.Sets=4096 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047793 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      98609 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106103 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82651 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181260 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4560 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4 No.of.Sets=1024 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=32768 No.of.Sets=1 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047793 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      98609 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106103 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82651 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181260 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4560 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=8 No.of.Sets=512 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=1 No.of.Sets=32768 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047846 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     123425 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106050 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    57765 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181190 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3188 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=8 No.of.Sets=512 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=2 No.of.Sets=16384 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047846 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     115637 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106050 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    65553 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181190 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3618 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=8 No.of.Sets=512 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=4 No.of.Sets=8192 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047846 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     100052 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106050 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    81138 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181190 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4478 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=8 No.of.Sets=512 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=8 No.of.Sets=4096 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047846 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      98539 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106050 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82651 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181190 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4562 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=8 No.of.Sets=512 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=32768 No.of.Sets=1 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047846 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      98539 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106050 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82651 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181190 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4562 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4096 No.of.Sets=1 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=1 No.of.Sets=32768 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047875 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     123382 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106021 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    57765 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181147 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3189 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4096 No.of.Sets=1 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=2 No.of.Sets=16384 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047875 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     115594 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106021 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    65553 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181147 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3619 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4096 No.of.Sets=1 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=4 No.of.Sets=8192 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047875 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     100009 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106021 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    81138 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181147 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4479 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4096 No.of.Sets=1 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=8 No.of.Sets=4096 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047875 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      98496 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106021 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82651 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181147 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4563 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4096 No.of.Sets=1 Replacement Policy=f and L2 Separate Cache size 1MB Block-Size=32 Associativity=32768 No.of.Sets=1 Replacement Policy=f.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047875 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      98496 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   106021 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82651 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 181147 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4563 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=1 No.of.Sets=4096 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=1 No.of.Sets=32768 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11045874 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     126494 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   108022 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    57751 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 184245 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0097 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3134 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=1 No.of.Sets=4096 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=2 No.of.Sets=16384 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11045874 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     118693 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   108022 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    65552 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 184245 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0097 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3558 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=1 No.of.Sets=4096 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=4 No.of.Sets=8192 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11045874 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     103105 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   108022 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    81140 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 184245 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0097 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4404 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=1 No.of.Sets=4096 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=8 No.of.Sets=4096 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11045874 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     101772 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   108022 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82473 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 184245 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0097 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4476 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=1 No.of.Sets=4096 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=32768 No.of.Sets=1 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11045874 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     101593 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   108022 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82652 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 184245 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0097 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4486 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=2 No.of.Sets=2048 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=1 No.of.Sets=32768 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047997 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     123212 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105899 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    57752 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180964 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3191 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=2 No.of.Sets=2048 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=2 No.of.Sets=16384 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047997 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     115412 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105899 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    65552 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180964 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3622 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=2 No.of.Sets=2048 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=4 No.of.Sets=8192 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047997 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      99824 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105899 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    81140 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180964 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4484 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=2 No.of.Sets=2048 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=8 No.of.Sets=4096 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047997 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      98491 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105899 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82473 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180964 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4557 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=2 No.of.Sets=2048 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=32768 No.of.Sets=1 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11047997 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      98312 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105899 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82652 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180964 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4567 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4 No.of.Sets=1024 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=1 No.of.Sets=32768 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11048193 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     122942 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105703 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    57750 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180692 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3196 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4 No.of.Sets=1024 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=2 No.of.Sets=16384 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11048193 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     115140 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105703 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    65552 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180692 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3628 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4 No.of.Sets=1024 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=4 No.of.Sets=8192 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11048193 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      99552 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105703 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    81140 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180692 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4491 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4 No.of.Sets=1024 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=8 No.of.Sets=4096 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11048193 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      98219 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105703 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82473 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180692 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4564 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4 No.of.Sets=1024 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=32768 No.of.Sets=1 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11048193 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      98040 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105703 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82652 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180692 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4574 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=8 No.of.Sets=512 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=1 No.of.Sets=32768 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11048224 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     122890 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105672 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    57748 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180638 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3197 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=8 No.of.Sets=512 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=2 No.of.Sets=16384 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11048224 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     115086 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105672 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    65552 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180638 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3629 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=8 No.of.Sets=512 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=4 No.of.Sets=8192 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11048224 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      99498 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105672 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    81140 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180638 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4492 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=8 No.of.Sets=512 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=8 No.of.Sets=4096 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11048224 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      98165 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105672 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82473 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180638 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4566 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=8 No.of.Sets=512 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=32768 No.of.Sets=1 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11048224 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      97986 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105672 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82652 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180638 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4576 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4096 No.of.Sets=1 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=1 No.of.Sets=32768 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11048212 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     122908 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105684 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    57748 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180656 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3197 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4096 No.of.Sets=1 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=2 No.of.Sets=16384 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11048212 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     115104 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105684 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    65552 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180656 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3629 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4096 No.of.Sets=1 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=4 No.of.Sets=8192 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11048212 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      99516 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105684 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    81140 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180656 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4491 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4096 No.of.Sets=1 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=8 No.of.Sets=4096 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11048212 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      98183 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105684 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82473 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180656 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4565 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4096 No.of.Sets=1 Replacement Policy=l and L2 Separate Cache size 1MB Block-Size=32 Associativity=32768 No.of.Sets=1 Replacement Policy=l.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11048212 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                      98004 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   105684 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    82652 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 180656 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0095 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4575 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=1 No.of.Sets=4096 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=1 No.of.Sets=32768 Replacement Policy=r.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11045874 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     126494 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   108022 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    57751 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 184245 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0097 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3134 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=1 No.of.Sets=4096 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=2 No.of.Sets=16384 Replacement Policy=r.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11045874 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     118595 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   108022 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    65650 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 184245 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0097 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3563 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=1 No.of.Sets=4096 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=4 No.of.Sets=8192 Replacement Policy=r.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11045874 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     117104 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   108022 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    67141 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 184245 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0097 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3644 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=1 No.of.Sets=4096 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=8 No.of.Sets=4096 Replacement Policy=r.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11045874 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     115437 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   108022 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    68808 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 184245 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0097 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3735 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=1 No.of.Sets=4096 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=32768 No.of.Sets=1 Replacement Policy=r.
+il1.hits                   25592331 # total number of hits
+dl1.hits                   11045874 # total number of hits
+il2.hits                          0 # total number of hits
+dl2.hits                     106765 # total number of hits
+il1.misses                      852 # total number of misses
+dl1.misses                   108022 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    77480 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    852 # total number of accesses
+dl2.accesses                 184245 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0097 # miss rate (i.e., misses/ref)
+il2.miss_rate                1.0000 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4205 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=2 No.of.Sets=2048 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=1 No.of.Sets=32768 Replacement Policy=r.
+il1.hits                   25592307 # total number of hits
+dl1.hits                   11049754 # total number of hits
+il2.hits                         24 # total number of hits
+dl2.hits                     120499 # total number of hits
+il1.misses                      876 # total number of misses
+dl1.misses                   104142 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    58878 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    876 # total number of accesses
+dl2.accesses                 179377 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9726 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3282 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=2 No.of.Sets=2048 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=2 No.of.Sets=16384 Replacement Policy=r.
+il1.hits                   25592308 # total number of hits
+dl1.hits                   11049790 # total number of hits
+il2.hits                         23 # total number of hits
+dl2.hits                     113314 # total number of hits
+il1.misses                      875 # total number of misses
+dl1.misses                   104106 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    66013 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    875 # total number of accesses
+dl2.accesses                 179327 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9737 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3681 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=2 No.of.Sets=2048 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=4 No.of.Sets=8192 Replacement Policy=r.
+il1.hits                   25592318 # total number of hits
+dl1.hits                   11049880 # total number of hits
+il2.hits                         13 # total number of hits
+dl2.hits                     110132 # total number of hits
+il1.misses                      865 # total number of misses
+dl1.misses                   104016 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    69099 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    865 # total number of accesses
+dl2.accesses                 179231 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9850 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3855 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=2 No.of.Sets=2048 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=8 No.of.Sets=4096 Replacement Policy=r.
+il1.hits                   25592304 # total number of hits
+dl1.hits                   11049797 # total number of hits
+il2.hits                         27 # total number of hits
+dl2.hits                     107920 # total number of hits
+il1.misses                      879 # total number of misses
+dl1.misses                   104099 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    71407 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    879 # total number of accesses
+dl2.accesses                 179327 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9693 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3982 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=2 No.of.Sets=2048 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=32768 No.of.Sets=1 Replacement Policy=r.
+il1.hits                   25592312 # total number of hits
+dl1.hits                   11049841 # total number of hits
+il2.hits                         19 # total number of hits
+dl2.hits                     101948 # total number of hits
+il1.misses                      871 # total number of misses
+dl1.misses                   104055 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    77313 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    871 # total number of accesses
+dl2.accesses                 179261 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9782 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4313 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4 No.of.Sets=1024 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=1 No.of.Sets=32768 Replacement Policy=r.
+il1.hits                   25592311 # total number of hits
+dl1.hits                   11050411 # total number of hits
+il2.hits                         20 # total number of hits
+dl2.hits                     119116 # total number of hits
+il1.misses                      872 # total number of misses
+dl1.misses                   103485 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    59526 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    872 # total number of accesses
+dl2.accesses                 178642 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9771 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3332 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4 No.of.Sets=1024 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=2 No.of.Sets=16384 Replacement Policy=r.
+il1.hits                   25592306 # total number of hits
+dl1.hits                   11050418 # total number of hits
+il2.hits                         25 # total number of hits
+dl2.hits                     112121 # total number of hits
+il1.misses                      877 # total number of misses
+dl1.misses                   103478 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    66487 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    877 # total number of accesses
+dl2.accesses                 178608 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9715 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3723 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4 No.of.Sets=1024 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=4 No.of.Sets=8192 Replacement Policy=r.
+il1.hits                   25592292 # total number of hits
+dl1.hits                   11050411 # total number of hits
+il2.hits                         39 # total number of hits
+dl2.hits                     108875 # total number of hits
+il1.misses                      891 # total number of misses
+dl1.misses                   103485 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    69769 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    891 # total number of accesses
+dl2.accesses                 178644 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9562 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3905 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4 No.of.Sets=1024 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=8 No.of.Sets=4096 Replacement Policy=r.
+il1.hits                   25592303 # total number of hits
+dl1.hits                   11050455 # total number of hits
+il2.hits                         28 # total number of hits
+dl2.hits                     106031 # total number of hits
+il1.misses                      880 # total number of misses
+dl1.misses                   103441 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    72550 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    880 # total number of accesses
+dl2.accesses                 178581 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9682 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4063 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4 No.of.Sets=1024 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=32768 No.of.Sets=1 Replacement Policy=r.
+il1.hits                   25592309 # total number of hits
+dl1.hits                   11050378 # total number of hits
+il2.hits                         22 # total number of hits
+dl2.hits                     101521 # total number of hits
+il1.misses                      874 # total number of misses
+dl1.misses                   103518 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    77148 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    874 # total number of accesses
+dl2.accesses                 178669 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9748 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4318 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=8 No.of.Sets=512 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=1 No.of.Sets=32768 Replacement Policy=r.
+il1.hits                   25592297 # total number of hits
+dl1.hits                   11050570 # total number of hits
+il2.hits                         34 # total number of hits
+dl2.hits                     118638 # total number of hits
+il1.misses                      886 # total number of misses
+dl1.misses                   103326 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    59830 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    886 # total number of accesses
+dl2.accesses                 178468 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9616 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3352 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=8 No.of.Sets=512 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=2 No.of.Sets=16384 Replacement Policy=r.
+il1.hits                   25592295 # total number of hits
+dl1.hits                   11050618 # total number of hits
+il2.hits                         36 # total number of hits
+dl2.hits                     111721 # total number of hits
+il1.misses                      888 # total number of misses
+dl1.misses                   103278 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    66704 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    888 # total number of accesses
+dl2.accesses                 178425 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9595 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3738 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=8 No.of.Sets=512 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=4 No.of.Sets=8192 Replacement Policy=r.
+il1.hits                   25592303 # total number of hits
+dl1.hits                   11050567 # total number of hits
+il2.hits                         28 # total number of hits
+dl2.hits                     108258 # total number of hits
+il1.misses                      880 # total number of misses
+dl1.misses                   103329 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    70210 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    880 # total number of accesses
+dl2.accesses                 178468 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9682 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3934 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=8 No.of.Sets=512 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=8 No.of.Sets=4096 Replacement Policy=r.
+il1.hits                   25592293 # total number of hits
+dl1.hits                   11050583 # total number of hits
+il2.hits                         38 # total number of hits
+dl2.hits                     105833 # total number of hits
+il1.misses                      890 # total number of misses
+dl1.misses                   103313 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    72586 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    890 # total number of accesses
+dl2.accesses                 178419 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9573 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4068 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=8 No.of.Sets=512 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=32768 No.of.Sets=1 Replacement Policy=r.
+il1.hits                   25592283 # total number of hits
+dl1.hits                   11050578 # total number of hits
+il2.hits                         47 # total number of hits
+dl2.hits                     101529 # total number of hits
+il1.misses                      900 # total number of misses
+dl1.misses                   103318 # total number of misses
+il2.misses                      853 # total number of misses
+dl2.misses                    76922 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    900 # total number of accesses
+dl2.accesses                 178451 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9478 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4311 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4096 No.of.Sets=1 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=1 No.of.Sets=32768 Replacement Policy=r.
+il1.hits                   25592282 # total number of hits
+dl1.hits                   11050624 # total number of hits
+il2.hits                         49 # total number of hits
+dl2.hits                     118151 # total number of hits
+il1.misses                      901 # total number of misses
+dl1.misses                   103272 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    60205 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    901 # total number of accesses
+dl2.accesses                 178356 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9456 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3376 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4096 No.of.Sets=1 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=2 No.of.Sets=16384 Replacement Policy=r.
+il1.hits                   25592284 # total number of hits
+dl1.hits                   11050715 # total number of hits
+il2.hits                         47 # total number of hits
+dl2.hits                     111532 # total number of hits
+il1.misses                      899 # total number of misses
+dl1.misses                   103181 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    66729 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    899 # total number of accesses
+dl2.accesses                 178261 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9477 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3743 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4096 No.of.Sets=1 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=4 No.of.Sets=8192 Replacement Policy=r.
+il1.hits                   25592298 # total number of hits
+dl1.hits                   11050592 # total number of hits
+il2.hits                         33 # total number of hits
+dl2.hits                     107868 # total number of hits
+il1.misses                      885 # total number of misses
+dl1.misses                   103304 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    70545 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    885 # total number of accesses
+dl2.accesses                 178413 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9627 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.3954 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4096 No.of.Sets=1 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=8 No.of.Sets=4096 Replacement Policy=r.
+il1.hits                   25592282 # total number of hits
+dl1.hits                   11050621 # total number of hits
+il2.hits                         49 # total number of hits
+dl2.hits                     105255 # total number of hits
+il1.misses                      901 # total number of misses
+dl1.misses                   103275 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    73115 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    901 # total number of accesses
+dl2.accesses                 178370 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9456 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4099 # miss rate (i.e., misses/ref)
+
+L1 Seperate cache size 128KB Block-Size=32 Associativity=4096 No.of.Sets=1 Replacement Policy=r and L2 Separate Cache size 1MB Block-Size=32 Associativity=32768 No.of.Sets=1 Replacement Policy=r.
+il1.hits                   25592289 # total number of hits
+dl1.hits                   11050670 # total number of hits
+il2.hits                         42 # total number of hits
+dl2.hits                     101070 # total number of hits
+il1.misses                      894 # total number of misses
+dl1.misses                   103226 # total number of misses
+il2.misses                      852 # total number of misses
+dl2.misses                    77241 # total number of misses
+il1.accesses               25593183 # total number of accesses
+dl1.accesses               11153896 # total number of accesses
+il2.accesses                    894 # total number of accesses
+dl2.accesses                 178311 # total number of accesses
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0093 # miss rate (i.e., misses/ref)
+il2.miss_rate                0.9530 # miss rate (i.e., misses/ref)
+dl2.miss_rate                0.4332 # miss rate (i.e., misses/ref)
+

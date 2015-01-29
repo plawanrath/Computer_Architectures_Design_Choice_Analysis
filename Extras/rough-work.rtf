@@ -1,0 +1,71 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf140
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 TimesNewRomanPSMT;\f2\fnil\fcharset77 ITFDevanagari-Book;
+}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 Given:\
+\
+Associativity - 1,2,4,8 and Full\
+BLOCK-SIZE = 64BYTES AND 32 BYTES\
+\
+L1 cache = 128K = 131072bytes\
+\
+L2 cache = 1MB = 1024K = 1048576bytes\
+\
+\pard\pardeftab720\ri380\sl276\slmult1\sa200
+
+\f1 \cf0 No. of Sets = (Cache Size)/(Associativity * Block Size)\
+
+\b For 128k and 64byte blocks:\
+
+\b0 Asso\
+
+\f2 \uc0\u2379 \u2375 
+\f1 c - [1,2,4,8,2048]\
+Sets = [2048,1024,512,256,1]\
+
+\b For 128k and 32 bytes blocks:\
+
+\b0 Assoc = [1,2,4,8,4096]\
+sets =  [4096,2048,1024,512,1]\
+
+\b For 1MB 64 bytes block:\
+
+\b0 Assoc = [1,2,4,8,16384]\
+sets = [16384,8192,4096,2048,1]\
+
+\b For 1MB 32 bytes block:\
+
+\b0 Assoc = [1,2,4,8,32768]\
+sets = [32768,16384,8192,4096,1]\
+\
+\pard\pardeftab720\ri380\sl100
+
+\b \cf0 \ul \ulc0 L1 unified and L2 unified \
+\pard\pardeftab720\ri380\sl100
+
+\b0 \cf0 \ulnone \
+\pard\pardeftab720\ri380\sl100
+
+\b \cf0 CPI = 1 + DL1_AccessPerInst*DL1_miss_rate*MPL1 + DL2_AccessPerInst*DL2_miss_rate*MPL2\
+\pard\pardeftab720\ri380\sl100
+
+\b0 \cf0 \
+\pard\pardeftab720\ri380\sl276\slmult1\sa200
+
+\b \cf0 \ul \ulc0 L1 separate and L2 unified\
+\pard\pardeftab720\ri380\sl100
+\cf0 \ulnone CPI = 1 + 1*IL1_miss_rate*MPL1 + DL1_AccessPerInst*DL1_miss_rate*MPL1 + DL2_AccessPerInst*DL2_miss_rate*MPL2\
+\pard\pardeftab720\ri380\sl100
+
+\b0 \cf0 \
+\pard\pardeftab720\ri380\sl100
+
+\b \cf0 \ul \ulc0 L1 separate and L2 separate\
+\
+\pard\pardeftab720\ri380\sl276\slmult1\sa200
+\cf0 \ulnone CPI = 1 + 1*IL1_miss_rate*MPL1 + DL1_AccessPerInst*DL1_miss_rate*MPL1 + DL2_AccessPerInst*DL2_miss_rate*MPL2 + IL2_AccessesPerInst\
+I need:\
+MissRate,MissPenalty and AccessPerInst of all Caches.}
